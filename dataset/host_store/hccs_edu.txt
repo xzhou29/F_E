@@ -1,0 +1,62 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: HCCS.EDU
+
+Registrant:
+	Houston Community College System
+	3100 Main, Ste 1000
+	MC 1111, Attn: Annette Hearn
+	Houston, TX 77002
+	USA
+
+Administrative Contact:
+	Annette Hearn
+	Houston Community College System
+	3100 Main, Ste 1000
+	MC 1111, Ste. 4C09
+	Houston, TX 77002
+	USA
+	+1.7137188715
+	annette.hearn@hccs.edu
+
+Technical Contact:
+	Daniel Cortez
+	Houston Community College System
+	3100 Main, Ste 1000
+	MC 1111, 4th Floor
+	Houston, TX 77002
+	USA
+	+1.7137188766
+	daniel.cortez@hccs.edu
+
+Name Servers:
+	ADMIN3.HCCS.EDU
+	PNS3.CLOUDNS.NET
+	ADMIN.HCCS.EDU
+	NS2.CLOUDNS.NET
+
+Domain record activated:    14-Jan-2002
+Domain record last updated: 17-Jul-2019
+Domain expires:             31-Jul-2021
+
+elapsed_time: 282

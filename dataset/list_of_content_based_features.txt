@@ -1,0 +1,141 @@
+THE DESCRIPTION OF THE CONTENT-BASE FEATURES:
+------------------------------------------------------------------------
+C is a 2-d array:  double[][] c = new double[11][15];
+------------------------------------------------------------------------
+5 types: 
+Type 1: all links which contain its own domain.
+Type 2: Social media links (ex. https://www.facebook.com).
+Type 3: all other links start with "https://". 
+Type 4: all other links start with "http://".
+Type 5: all other links (internal links).
+------------------------------------------------------------------------
+6 catogeries
+Set 1: all links from html tag <a>
+Set 2: all links from html tag <link>
+Set 3: all links from html tag <js>
+Set 4: all links from html tag <video>
+Set 5: all links from html tag <img>
+Set 6: all links from html tag <meta>
+------------------------------------------------------------------------
+10 values:
+value 1: size of Type 1 links.
+value 2: size of Type 2 links.
+value 3: size of Type 3 links.
+value 4: size of Type 4 links.
+value 5: size of Type 5 links.
+value 6: mean of the lengths on all Type 1 links.
+value 7: mean of the lengths on all Type 2 links.
+value 8: mean of the lengths on all Type 3 links.
+value 9: mean of the lengths on all Type 4 links. 
+value 10: mean of the lengths on all Type 5 links. 
+value 11: standaed deviation of lengths on all Type 1 links. 
+value 12: standaed deviation of lengths on all Type 2 links. 
+value 13: standaed deviation of lengths on all Type 3 links. 
+value 14: standaed deviation of lengths on all Type 4 links. 
+value 15: standaed deviation of lengths on all Type 5 links. 
+------------------------------------------------------------------------
+THE FEATURES BASED ON LINKS
+------------------------------------------------------------------------
+C_F_1: size of Type 1 links from html tag <a> 
+C_F_2: size of Type 2 links from html tag <a> 
+C_F_3: size of Type 3 links from html tag <a> 
+C_F_4: size of Type 4 links from html tag <a> 
+C_F_5: size of Type 5 links from html tag <a> 
+C_F_6: mean of the lengths on all Type 1 links from html tag <a> 
+C_F_7: mean of the lengths on all Type 2 links from html tag <a> 
+C_F_8: mean of the lengths on all Type 3 links from html tag <a> 
+C_F_9: mean of the lengths on all Type 4 links from html tag <a> 
+C_F_10: mean of the lengths on all Type 5 links from html tag <a>  
+C_F_11: standard deviation of the lengths on all Type 1 links from html tag <a>  
+C_F_12: standard deviation of the lengths on all Type 2 links from html tag <a>  
+C_F_13: standard deviation of the lengths on all Type 3 links from html tag <a>  
+C_F_14: standard deviation of the lengths on all Type 4 links from html tag <a>  
+C_F_15: standard deviation of the lengths on all Type 5 links from html tag <a>  
+
+REPEAT FOR HTML TAG <link>
+C_F_16: C_F_17: C_F_18: C_F_19: C_F_20: C_F_21: C_F_22: C_F_23: C_F_24: C_F_25: C_F_26: C_F_27: C_F_28: C_F_29: C_F_30:
+
+REPEAT FOR HTML TAG <js>
+C_F_31: C_F_32: C_F_33: C_F_34: C_F_35: C_F_36: C_F_37: C_F_38: C_F_39: C_F_40: C_F_41: C_F_42: C_F_43: C_F_44: C_F_45: 
+
+REPEAT FOR HTML TAG <video>
+C_F_46: C_F_47: C_F_48: C_F_49: C_F_50: C_F_51: C_F_52: C_F_53: C_F_54: C_F_55: C_F_56: C_F_57: C_F_58: C_F_59: C_F_60: 
+
+REPEAT FOR HTML TAG <img>
+C_F_61: C_F_62: C_F_63: C_F_64: C_F_65: C_F_66: C_F_67: C_F_68: C_F_69: C_F_70: C_F_71: C_F_72: C_F_73: C_F_74: C_F_75: 
+
+REPEAT FOR HTML TAG <meta>
+C_F_76: C_F_77: C_F_78: C_F_79: C_F_80: C_F_81: C_F_82: C_F_83: C_F_84: C_F_85: C_F_86: C_F_87: C_F_88: C_F_89: C_F_90: 
+------------------------------------------------------------------------
+OTHER CONTENT-BASED FEATURES:
+------------------------------------------------------------------------
+C_F_91: size of html tag <h1>
+C_F_92: size of html tag <h2>
+C_F_93: size of html tag <a>
+C_F_94: size of html tag <link>
+C_F_95: size of html tag <video>
+C_F_96: size of html tag <img>
+C_F_97: size of html tag <meta>
+C_F_98: length of title
+C_F_99: if title contains website domain (1 or 0)
+C_F_100: # of domain found from content on <h1>
+C_F_101: # of domain found found from content on <h2>
+C_F_102: N/A
+C_F_103: N/A
+C_F_104: N/A
+C_F_105: N/A
+C_F_106: if title contains special words: 1. sign 2. log
+C_F_107: size of <input>
+C_F_108: size of <p>
+C_F_109: size of <span>
+C_F_110: size of <button>
+C_F_111: N/A
+C_F_112: N/A
+C_F_113: N/A
+C_F_114: N/A
+C_F_115: N/A
+C_F_116: links that contain domain name / all https links
+C_F_117: all https links / http link
+C_F_118: all other links / http links
+C_F_119: all other links / https links
+C_F_120: N/A
+------------------------------------------------------------------------
+INPUT FORMS:
+------------------------------------------------------------------------
+C_F_121: # of hidden input forms
+C_F_122: # of text input forms
+C_F_123: # of checkbox input forms
+C_F_124: # of button input forms
+C_F_125: # of email input forms
+C_F_126: # of image input forms
+C_F_127: # of password input forms
+C_F_128: # of radio input forms
+C_F_129: # of search input forms
+C_F_130: # of tel input forms
+C_F_131: # of url input forms
+C_F_132: # of week input forms
+C_F_133: # of color input forms
+C_F_134: # of reset input forms
+C_F_135: # of other input forms
+------------------------------------------------------------------------
+THE FEATURES BASED ON ALEXA RANK AND COUNTRY (ISO CODE)
+------------------------------------------------------------------------
+C_F_136: mean of global ranks on all links from <a>
+C_F_137: mean of local ranks on all links from <a>
+C_F_138: mean of ISO code on all links from <a>
+C_F_139: euclidean distance of global ranks on all links from <a>
+C_F_140: euclidean distance of local ranks on all links from <a>
+C_F_141: euclidean distance of ISO ranks on all links from <a>
+
+REPEAT FOR TAG <js>:
+C_F_142: C_F_143: C_F_144: C_F_145: C_F_146: C_F_147: 
+
+REPEAT FOR TAG <link>:
+C_F_148: C_F_149: C_F_150: C_F_151: C_F_152: C_F_153: 
+
+REPEAT FOR TAG <img>:
+C_F_154: C_F_155: C_F_156: C_F_157: C_F_158: C_F_159: 
+
+REPEAT FOR TAG <video>:
+C_F_160: C_F_161: C_F_162: C_F_163: C_F_164: C_F_165: 
+

@@ -1,0 +1,3 @@
+global_rank: 9
+local_rank: 7
+country_code: US

@@ -1,0 +1,3 @@
+global_rank: 7381386
+local_rank: 443789
+country_code: RU

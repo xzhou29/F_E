@@ -1,0 +1,3 @@
+global_rank: 7
+local_rank: 0
+country_code: 

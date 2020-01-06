@@ -1,0 +1,61 @@
+This Registry database contains ONLY .EDU domains.
+The data in the EDUCAUSE Whois database is provided
+by EDUCAUSE for information purposes in order to
+assist in the process of obtaining information about
+or related to .edu domain registration records.
+
+The EDUCAUSE Whois database is authoritative for the
+.EDU domain.
+
+A Web interface for the .EDU EDUCAUSE Whois Server is
+available at: http://whois.educause.edu
+
+By submitting a Whois query, you agree that this information
+will not be used to allow, enable, or otherwise support
+the transmission of unsolicited commercial advertising or
+solicitations via e-mail.  The use of electronic processes to
+harvest information from this server is generally prohibited
+except as reasonably necessary to register or modify .edu
+domain names.
+
+-------------------------------------------------------------
+
+Domain Name: UH.EDU
+
+Registrant:
+	University of Houston
+	4800 Calhoun Road
+	ERP #3, Room 276
+	Houston, TX 77204
+	USA
+
+Administrative Contact:
+	Dickerson Mary
+	University of Houston
+	5000 Gulf Freeway
+	ERP #3, Room 276
+	Houston, TX 77204-4012
+	USA
+	+1.8328424679
+	medickerson@central.uh.edu
+
+Technical Contact:
+	Charles Chambers
+	University of Houston - Information Technology
+	5000 Gulf Freeway
+	ERP3 - Room 294A
+	Houston, TX 77204-4012
+	USA
+	+1.8328424624
+	chambers@uh.edu
+
+Name Servers:
+	NS1.UH.EDU
+	NS3.UH.EDU
+	NS2.UH.EDU
+
+Domain record activated:    21-Oct-1987
+Domain record last updated: 26-Sep-2019
+Domain expires:             31-Jul-2020
+
+elapsed_time: 870
