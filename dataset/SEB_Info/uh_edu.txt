@@ -1,3 +1,0 @@
-numberOfEmails: -1
-numberOfHosts: 0
-elapsed_time: 1038
